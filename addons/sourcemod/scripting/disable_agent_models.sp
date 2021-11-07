@@ -8,7 +8,7 @@ public Plugin myinfo =  {
 	name = "CS:GO Disable agent models (mmcs.pro)",
 	author = "SAZONISCHE",
 	description = "",
-	version = "1.0",
+	version = "1.1",
 	url = "mmcs.pro"
 };
 
